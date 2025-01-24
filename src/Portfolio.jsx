@@ -47,7 +47,7 @@ const Portfolio=()=>{
           </h1> 
           <div className="img-box">
              {<img src={`${process.env.PUBLIC_URL}/images/pattern.png`} className="back-img"/> }
-             <img src={`${process.env.PUBLIC_URL}/images/nikhil.png`} className="main-img"/>
+             <img src={`${process.env.PUBLIC_URL}/images/nikhl.png`} className="main-img"/>
              </div>
    <div className="home-buttons d-flex flex-wrap justify-content-start">
     <a className="button" href="#contact">Contact</a>
